@@ -7,7 +7,7 @@
 >>This project is my own version of the original Fronted Mentor project </p> (https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 
 ## Functionality 🛬
-This page offers to look at the location, isp, time zone of an ip on the map! </p>
+This page offers to look at the location, isp, timezone of an ip on the map! </p>
 
 ## Live Preview 👁‍🗨
 🌐 https://iat-react.netlify.app/ 🌐
