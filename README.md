@@ -8,6 +8,7 @@
 
 ## Functionality 🛬
 This page offers to look at the location, isp, timezone of an ip on the map! </p>
+![Screenshot_5](https://user-images.githubusercontent.com/72955349/225453882-57f90ad8-c624-4c43-8c41-21d2ddc90c61.png)
 
 ## Live Preview 👁‍🗨
 🌐 https://iat-react.netlify.app/ 🌐
